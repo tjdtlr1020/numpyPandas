@@ -1,1 +1,3 @@
-# numpyPandas
+# numpyPandas 
+- numpy
+- pandas
